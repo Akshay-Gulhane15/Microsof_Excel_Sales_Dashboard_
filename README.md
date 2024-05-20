@@ -4,6 +4,7 @@
 The dashboard aims to provide a comprehensive and interactive overview of sales performance across different dimensions such as time, products, regions, and sales representatives. It helps stakeholders quickly identify trends, compare performance, and make data-driven decisions.
 
 2. Components of the Dashboard
+
 a. Header Section
 Title: "Sales Dashboard"
 Date Range Selector: Allows users to select the desired date range for the data displayed.
